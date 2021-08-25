@@ -1,4 +1,4 @@
-package de.niklas.utils;
+package de.niklas.utils.assertutils;
 
 public class AssertUtils {
     public static void asserts(boolean bool) {
